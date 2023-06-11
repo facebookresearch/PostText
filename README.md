@@ -174,3 +174,12 @@ You should get:
   "message": "okay"
 }
 ```
+
+## License
+
+The codebase is licensed under the [Apache 2.0 license](LICENSE).
+
+## Contributing
+
+See [contributing](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+      
